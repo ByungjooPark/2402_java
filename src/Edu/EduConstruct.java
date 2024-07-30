@@ -3,7 +3,7 @@ package Edu;
 public class EduConstruct {
     public static void main(String[] args) {
 //        Whale whale = new Whale("고래");
-//        Whale whale2 = new Whale(3);
+//        Whale whale2 = new Whale();
     }
 }
 
